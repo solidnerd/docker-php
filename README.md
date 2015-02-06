@@ -12,7 +12,7 @@ This image has the following php extensions included:
 ```
 docker pull solidnerd/php
 ```
-or build your own by the provided Dockerfile
+or build your own by the provided Dockerfile.
 
 ### Run a container
 ```
